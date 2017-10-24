@@ -1,0 +1,2 @@
+MainPackage=c:\s\HomeClock\HomeClock\bin\ARM\Debug\HomeClock_1.0.5.0_ARM_Debug.appx
+SymbolPackage=c:\s\HomeClock\HomeClock\AppPackages2\HomeClock_1.0.5.0_Debug_Test\HomeClock_1.0.5.0_ARM_Debug.appxsym
